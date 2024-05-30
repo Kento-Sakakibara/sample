@@ -1,0 +1,20 @@
+h1 {
+    color: red;
+}
+
+.P1{
+    background-color: rgb(198, 119, 119);
+}
+.P2{
+    background-color:rgb(135, 163, 224);
+}
+
+.player {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.player img {
+    margin: 5px;
+}
+
